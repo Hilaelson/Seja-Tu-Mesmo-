@@ -1,4 +1,4 @@
-<Seja Tu Mesmo>
+<header>
 
 <!--
   <<< Author notes: Seja Tu Mesmo>>>
